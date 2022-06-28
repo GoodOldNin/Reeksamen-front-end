@@ -1,0 +1,15 @@
+nav {
+  background-color: rgb(226, 153, 43);
+  display: flex;
+  justify-content: space-evenly;
+  padding: 5px 0;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  font-size: large;
+}
+nav a:hover {
+  color: rgb(255, 0, 0);
+  text-decoration: underline;
+}
