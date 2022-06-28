@@ -3,7 +3,7 @@ import Header from "./components/Header";
 import NavBar from "./components/NavBar";
 import Footer from "./components/Footer";
 import { useState, useEffect } from "react";
-import LogIn from "./components/login";
+import LogIn from "./components/LogIn";
 import { loginUrl } from "./settings";
 
 // import LogOut from "./components/LogOut";
