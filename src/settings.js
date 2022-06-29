@@ -6,7 +6,3 @@ export const seeAllTenantsUrl =
   "https://cloudcastle.dk/24TimersEksamen/api/info/seeAllTenants";
 export const seeAllRentalsUrl =
   "https://cloudcastle.dk/24TimersEksamen/api/info/seeAllRentals";
-// example export const signUpUrl = "https://test.singah.dk/SP/api/signup";
-// example export const signUpUrl = "https://test.singah.dk/SP/api/signup";
-// example export const signUpUrl = "https://test.singah.dk/SP/api/signup";
-// example export const signUpUrl = "https://test.singah.dk/SP/api/signup";
