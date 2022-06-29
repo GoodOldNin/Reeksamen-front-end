@@ -17,9 +17,6 @@ const Footer = () => {
       setUserName(userNameLS);
       setLoggedIn(loggedInLS);
       setUserRole(userRoleLS);
-      console.log(userNameLS);
-      console.log(loggedInLS);
-      console.log(userRoleLS);
     }
   });
 
@@ -39,7 +36,7 @@ const Footer = () => {
           <LogOut onClick={logOutFunc} />
         </div>
       ) : (
-        <div>you are not logged in</div>
+        <div>Please log in, or sign up</div>
       )}
     </footer>
   );
